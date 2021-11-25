@@ -1,1 +1,1 @@
-This project is meant to be opened in Obsidian
+This project is meant to be opened in [Obsidian](https://obsidian.md/)
