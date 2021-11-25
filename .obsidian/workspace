@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "978626169f6620d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f589560c4247d721",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Globals.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a42b9bb214df10a",
+    "type": "split",
+    "children": [
+      {
+        "id": "12d1e77eb38a7d6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499d74e2887f3fe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb497d52240a52d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62ca0221f67b35a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e8cf84e5329f57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb881d0a3a632d88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Globals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f589560c4247d721",
+  "lastOpenFiles": [
+    "Globals.md",
+    "Symbols.md",
+    "Threads.md",
+    "Fork.md",
+    "README.md"
+  ]
+}
