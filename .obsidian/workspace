@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Globals.md",
-            "mode": "source"
+            "file": "Goto.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Globals.md",
+                "file": "Goto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +89,11 @@
   },
   "active": "f589560c4247d721",
   "lastOpenFiles": [
+    "Goto.md",
+    "README.md",
+    "Fork.md",
     "Globals.md",
     "Symbols.md",
-    "Threads.md",
-    "Fork.md",
-    "README.md"
+    "Threads.md"
   ]
 }
